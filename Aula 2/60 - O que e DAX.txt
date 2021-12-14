@@ -1,0 +1,5 @@
+A DAX (Data Analysis Expressions) é uma linguagem de expressão de fórmula usada nos Analysis Services, no Power BI e no Power Pivot no Excel. As fórmulas DAX incluem funções, operadores e valores para realizar cálculos avançados e consultas em dados nas tabelas e colunas relacionadas nos modelos de dados tabulares.
+
+É uma funcionalidade utilizada para construir métricas, indicadores e novas colunas, utilizando os dados das fontes de origem, do modelo de dados.
+
+Fontes: https://docs.microsoft.com/pt-br/dax/

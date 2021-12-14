@@ -1,0 +1,11 @@
+Acumulado movel Qtde 12 meses = 
+
+CALCULATE(
+    SUM(Ocorrencias[qtde]),
+    DATESINPERIOD(
+        Periodo[data],
+        LASTDATE(Periodo[data]),
+        -12,
+        MONTH
+    )
+)

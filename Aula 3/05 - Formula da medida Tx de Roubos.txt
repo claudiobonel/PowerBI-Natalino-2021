@@ -1,0 +1,13 @@
+Tx de Roubos = 
+
+DIVIDE(
+    CALCULATE(
+        SUM(Ocorrencias[qtde]),
+        Ocorrencias[Ocorrencias] = "roubo_veiculo"
+    ),
+     CALCULATE(
+        SUM(Ocorrencias[qtde]),
+        Ocorrencias[Ocorrencias] in {"roubo_veiculo","furto_veiculos"}
+    )
+
+)

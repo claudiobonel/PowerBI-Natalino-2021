@@ -1,0 +1,11 @@
+Acumulado movel Qtde 6 meses = 
+
+CALCULATE(
+    SUM(Ocorrencias[qtde]),
+    DATESINPERIOD(
+        Periodo[data],
+        LASTDATE(Periodo[data]),
+        -6,
+        MONTH
+    )
+)

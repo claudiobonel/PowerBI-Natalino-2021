@@ -1,0 +1,3 @@
+O Microsoft Power Query fornece uma experiência avançada de importação de dados que abrange inúmeros recursos. O Power Query funciona com o Analysis Services, o Excel e os workbooks do Power BI. Uma das principais funcionalidades do Power Query é filtrar e combinar, ou seja, realizar o mashup de dados de uma ou mais coleções avançadas de fontes de dados compatíveis. Qualquer mashup de dados desse tipo é expresso usando a Linguagem de fórmula do Power Query M
+
+Fonte: https://docs.microsoft.com/pt-br/powerquery-m/

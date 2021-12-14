@@ -1,0 +1,4 @@
+if Text.Length (Number.ToText([mes]) ) = 1 then 
+   	"0" & Number.ToText([mes]) 
+else 
+	Number.ToText([mes])

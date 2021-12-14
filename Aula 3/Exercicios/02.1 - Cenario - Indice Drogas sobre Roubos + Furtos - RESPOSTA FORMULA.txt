@@ -1,0 +1,12 @@
+Tx Drogas sobre Roubos + Furtos = 
+
+DIVIDE(
+    CALCULATE(
+        SUM(Ocorrencias[qtde]),
+        CONTAINSSTRING(Ocorrencias[Ocorrencias],"drogas")
+    ),
+    CALCULATE(
+        SUM(Ocorrencias[qtde]),
+        OR(CONTAINSSTRING(Ocorrencias[Ocorrencias],"roubo"),CONTAINSSTRING(Ocorrencias[Ocorrencias],"furto"))
+    )
+)

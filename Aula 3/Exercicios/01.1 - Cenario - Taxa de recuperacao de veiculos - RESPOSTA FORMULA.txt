@@ -1,0 +1,13 @@
+Tx de Recup. Veiculos = 
+
+DIVIDE(
+    CALCULATE(
+        SUM(Ocorrencias[qtde]),
+        Ocorrencias[Ocorrencias] = "recuperacao_veiculos"
+    ),
+     CALCULATE(
+        SUM(Ocorrencias[qtde]),
+        Ocorrencias[Ocorrencias] in {"roubo_veiculo","furto_veiculos"}
+    )
+
+)
