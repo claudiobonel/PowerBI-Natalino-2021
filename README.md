@@ -31,6 +31,8 @@ Pra quem é esse treinamento?
 - Profissionais que já conhecem o Power BI, mas precisam relembrar conceitos e visualizar outros pontos de vista
 - Qq pessoa que tenha vontade de profissionalizar suas tomadas de decisão
 
+Bonel, não tem um puto no bolso, mas preciso muito do certificado e do seu suporte! Fale comigo que a gente dá uma jeito! Blz?
+
 Conecte-se comigo nas redes sociais:
 
 Linked in: http://br.linkedin.com/in/bonel
