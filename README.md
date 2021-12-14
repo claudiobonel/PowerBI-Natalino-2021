@@ -8,16 +8,21 @@ Lembro que para cada R$ 1,00 doado...eu, Claudio Bonel, vou doar R$ 1,00! Isso m
 
 Toda a prestação de contas é enviada para os/as doadores/as!!
 
+FAÇA SUA DOAÇÃO AQUI! >> https://apoia.se/powerbinatalino << 
+
 Como funcionará?
 
-É um treinamento de Power BI Fundamentos, com carga total de 8 horas, ou seja, vamos navegar pelo Power BI desde o absoluto ZERO até a construção de um Dashboard, vendo os principais pontos-chave da construção de Painel Gerencial, passando pelo tratamento do Dado no Power Query (Linguagem M), pela Modelagem de Dados, pela construção de cálculos em DAX até o desenvolvimento de visualizaçoes de dados para tomada de decisão!
+É um treinamento de Power BI Fundamentos, com carga total de 8 horas, ou seja, vamos navegar pelo Power BI desde o absoluto ZERO até a construção de um Dashboard, vendo os principais pontos-chave da construção de Painel Gerencial, passando pelo tratamento dos Dados no Power Query (Linguagem M), pela Modelagem de Dados, pela construção de cálculos em DAX até o desenvolvimento de visualizações de dados para tomada de decisão!
 
 O treinamento é 100% gratuito! Ficará disponível aqui no Github eternamente e fique à vontade para compartilhar essa iniciativa!
 
-Mas....se você quiser ganhar o certificado, emitido pela Dadoteca e válido em território nacional e mundial, se ganhar ganhar o meu suporte para tirar suas dúvidas, acesse o link abaixo:
->> Inseriri link <<
+MAS....SE VOCÊ QUISER GANHAR O CERTIFICADO, EMITIDO PELA DADOTECA E VÁLIDO EM TERRITÓRIO NACIONAL E MUNDIAL, E AINDA GANHAR O MEU SUPORTE PARA TIRAR SUAS DÚVIDAS, ACESSE O LINK ABAIXO:
+
+>> https://apoia.se/powerbinatalino << 
 
 Conheça as formas de Doar e faça sua Doação para esse projeto!
+
+Importante! O Certificado e o suporte só serão válidos para quem doar para o projeto, ou seja, quando encerrarem as doações não será possível emitir o certificado ou prestar o suporte. Porém, o treinamento segue liberado!
 
 Pra quem é esse treinamento?
 - Estudantes
@@ -30,7 +35,9 @@ Conecte-se comigo nas redes sociais:
 
 Linked in: http://br.linkedin.com/in/bonel
 Youtube: http://youtube.com/c/ClaudioBonel
-Intagram: @bonelclaudio
+Instagram: @bonelclaudio
+
+FAÇA SUA DOAÇÃO AQUI! >> https://apoia.se/powerbinatalino << 
 
 Qq dúvida, fale comigo!
 
